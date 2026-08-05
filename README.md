@@ -11,13 +11,7 @@ Software Engineering Student • UniGuairacá
 Building technology with purpose.
 </p>
 ---
-## 👨‍💻 About Me
-
-I am a Software Engineering student passionate about technology and continuous learning.
-
-My goal is to build modern, efficient and intuitive software solutions while constantly improving my skills through practical projects.
-
-Currently focused on Web Development, Python, Databases and Software Engineering.
+I’m a Software Engineering student passionate about building clean, modern and user-focused software. My goal is to continuously improve through real-world projects while developing solutions that create value for people and businesses.
 
 ## 🛠 Tech Stack
 
