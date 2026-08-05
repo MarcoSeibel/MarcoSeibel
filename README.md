@@ -43,6 +43,6 @@ Currently focused on Web Development, Python, Databases and Software Engineering
 ## 🌎 Connect With Me
 
 <p align="left">
-<a href="SEU_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="mailto:SEUEMAIL"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="www.linkedin.com/in/marco-antônio-a-5906203a9"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="mailto:marcoantonioaraujoseibel123@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
