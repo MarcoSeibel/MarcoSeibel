@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Banner do perfil de Marco Seibel" width="100%">
+  <img src="./Screenshot 2026-08-05 105152.png" alt="Banner do perfil de Marco Seibel" width="100%">
 </p>
 <h1 align="center">Marco Antônio Araújo Seibel</h1>
 
