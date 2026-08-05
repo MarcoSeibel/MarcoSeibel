@@ -40,3 +40,15 @@ I’m a Software Engineering student passionate about building clean, modern and
 <a href="www.linkedin.com/in/marco-antônio-a-5906203a9"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="mailto:marcoantonioaraujoseibel123@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MarcoSeibel&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoSeibel&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
