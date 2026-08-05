@@ -11,7 +11,7 @@ Software Engineering Student • UniGuairacá
 Building technology with purpose.
 </p>
 ---
-## 👨‍💻 About Me
+👨‍💻 About Me
 
 I am a Software Engineering student passionate about technology and continuous learning.
 
@@ -24,3 +24,18 @@ Currently focused on Web Development, Python, Databases and Software Engineering
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,mysql" />
 </p>
+
+## 📚 Atualmente estudando
+
+- 🌐 Desenvolvimento Web (HTML, CSS e JavaScript)
+- 🐍 Programação com Python
+- 🗄️ Banco de Dados e SQL
+- 🔧 Git e GitHub
+- 💻 Engenharia de Software
+
+- ## 🎯 Objetivos
+
+- Desenvolver aplicações web modernas e responsivas.
+- Construir projetos que resolvam problemas reais.
+- Evoluir continuamente como Desenvolvedor de Software.
+- Criar um portfólio sólido através de projetos práticos.
